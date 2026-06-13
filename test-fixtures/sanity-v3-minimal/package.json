@@ -1,0 +1,11 @@
+{
+  "name": "bsanity-sanity-v3-minimal",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@booga/bsanity": "file:../..",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sanity": "^3.99.0"
+  }
+}
