@@ -1,5 +1,8 @@
 # @booga/bsanity
 
+Your content team writes in Sanity Studio: marketing pages, product descriptions, regulated copy. They use AI assistants in the studio to draft. With bSanity installed, the same discipline checks that protect your engineers run on those drafts. A custom Document Action posts the working document to a Sanity Document Function proxy; the b-* tools fire in Node runtime: bground verifies factual claims against cited evidence, bsmell flags hedged or unsupported language, banchor checks alignment to the brief. Verdicts return into a structure-builder panel next to the document: no leaving the studio, no fact-check ping-pong, no after-the-fact retraction.
+
+
 Sanity v3 plugin embedding the b-suite discipline runtime into the Studio authoring UI.
 
 ## Install
